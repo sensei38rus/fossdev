@@ -11,7 +11,7 @@ setup(
     description="Полезные математические утилиты для базовых вычислений",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/sensei38rus/fossdev/tree/sensei38rus_math_pack",
+    url="https://github.com/sensei38rus/fossdev/tree/pypi-task",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -28,7 +28,7 @@ setup(
     python_requires=">=3.7",
     keywords="math, utilities, calculator, geometry",
     project_urls={
-        "Bug Reports": "https://github.com/sensei38rus/fossdev/tree/sensei38rus_math_pack/issues",
-        "Source": "https://github.com/sensei38rus/fossdev/tree/sensei38rus_math_pack",
+        "Bug Reports": "https://github.com/sensei38rus/fossdev/tree/pypi-task/issues",
+        "Source": "https://github.com/sensei38rus/fossdev/tree/pypi-task",
     },
 )
