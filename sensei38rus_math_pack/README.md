@@ -5,7 +5,7 @@
 ## GitHub Repository
 
 Исходный код доступен по ссылке:  
-[https://github.com/sensei38rus/fossdev/tree/pypi-task](https://github.com/sensei38rus/fossdev/tree/pypi-task)
+[https://github.com/sensei38rus/fossdev/tree/pypi-task/sensei38rus_math_pack](https://github.com/sensei38rus/fossdev/tree/pypi-task/sensei38rus_math_pack)
 
 ## Установка из TestPyPI
 
