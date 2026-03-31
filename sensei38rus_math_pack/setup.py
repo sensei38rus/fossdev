@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="sensei38rus_math_pack",
-    version="0.1.1",
+    version="0.1.3",
     author="sensei38rus",
     author_email="shihowdima1337@gmail.com",
     description="Полезные математические утилиты для базовых вычислений",
