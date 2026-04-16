@@ -1,7 +1,7 @@
 
 # .DEFAULT_GOAL := help
 
-PRACTICE = docs_domain
+
 create-practice:
 ifndef PRACTICE
 	$(error must pass val via PRACTICE)
