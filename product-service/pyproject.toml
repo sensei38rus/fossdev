@@ -1,17 +1,15 @@
 [project]
-name = "order-service"
+name = "product-service"
 version = "0.0.1"
-description = "App"
+description = "product"
 authors = [
     {name = "sensei38",email = "shihowdima1337@gmail.com"}
 ]
 license = "MIT"
 readme = "README.md"
-requires-python = "^3.12"
+requires-python = ">=3.12"
 dependencies = [
     "fastapi (>=0.136.1,<0.137.0)",
-    "uvicorn[standart] (>=0.46.0,<0.47.0)",
-    "httpx (>=0.28.1,<0.29.0)",
     "pydantic (>=2.13.3,<3.0.0)"
 ]
 
